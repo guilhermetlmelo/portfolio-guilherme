@@ -2,20 +2,20 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background: #f4f4f4;
-  color: #333;
+  background: rgb(35, 35, 39);
+  color: rgb(255, 96, 2);
 }
 
 header {
-  background-color: #222;
-  color: #fff;
+  background-color: rgb(255, 96, 2);
+  color: #000000;
   padding: 1em;
   text-align: center;
 }
 
 nav a {
   margin: 0 1em;
-  color: #fff;
+  color: #000000;
   text-decoration: none;
 }
 
@@ -24,17 +24,9 @@ main {
 }
 
 .project {
-  background: #fff;
+  background: rgb(84, 68, 68);
   padding: 1em;
   margin-top: 1em;
   border-radius: 8px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-footer {
-  background-color: #222;
-  color: #fff;
-  text-align: center;
-  padding: 1em;
-  margin-top: 2em;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
 }
